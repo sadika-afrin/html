@@ -1,0 +1,14 @@
+.amni{
+    height:200px;
+    width: 200px;
+    background-color: aqua;
+}
+
+.hudai{
+    height: 300px;
+    width:300px;
+    /* background-color:  */
+    background-image: url("https://img.freepik.com/free-photo/cute-baby-born_624325-1181.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1704240000&semt=sph");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
